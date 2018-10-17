@@ -1,0 +1,17 @@
+body {
+	font-family: helvetica, sans-serif;
+
+}
+
+
+.fake {
+  background-color: red;
+  color: #black;
+}
+.true {
+  background-color: green;
+  color: black;
+}
+h2 {
+  font-color: #red;
+}
