@@ -6,12 +6,17 @@ body {
 
 .fake {
   background-color: red;
-  color: #black;
+  color: black;
 }
 .true {
   background-color: green;
   color: black;
 }
-h2 {
-  font-color: #red;
+
+#title {
+  background-color: #9DD9BD;
+  color: black;
 }
+#video {
+  background-color: #9DD9BD;
+  }
