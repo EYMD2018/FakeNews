@@ -1,11 +1,14 @@
 body {
-	font-family: helvetica, sans-serif;
-
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 #title {
-  background-color: #ffee78;
+  /*background-color: #ffee78;*/
   color: black;
+  border: 2px solid #ffee78;
+  padding: 10px;
+  border-radius: 25px;
+  background: #ffee78;
 }
 #video {
   background-color: #ffee78;
@@ -23,3 +26,33 @@ body {
     cursor: pointer;
      }
 .button2 {background-color: green;} /* Red */
+p {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+h2
+{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+h3
+{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+h4
+{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+.navbar{
+height: 100px; /* Just an example height*/ 
+}
+.nav a{
+            color: white !important;
+            font-size: 1.8em !important;
+        }
