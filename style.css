@@ -53,14 +53,24 @@ h4
 height: 100px; /* Just an example height*/ 
 }
 .nav a{
-            color: white !important;
+            color: #ffee78 !important;
             font-size: 1.8em !important;
         }
 .dropdown-menu a{
-            color: white !important;
+            color: #ffee78 !important;
             font-size: 1.8em !important;
         }
 .dropdown-menu {
             background: black !important;
 
         }
+#thumbnail img{
+    border: 1px solid #ffee78;
+    border-radius: 4px;
+    padding: 5px;
+    width: : 150px;
+}
+
+#thumbnail img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
