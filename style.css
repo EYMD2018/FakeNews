@@ -56,3 +56,11 @@ height: 100px; /* Just an example height*/
             color: white !important;
             font-size: 1.8em !important;
         }
+.dropdown-menu a{
+            color: white !important;
+            font-size: 1.8em !important;
+        }
+.dropdown-menu {
+            background: black !important;
+
+        }
