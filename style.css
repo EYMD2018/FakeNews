@@ -3,16 +3,6 @@ body {
 
 }
 
-
-.fake {
-  background-color: red;
-  color: black;
-}
-.true {
-  background-color: green;
-  color: black;
-}
-
 #title {
   background-color: #ffee78;
   color: black;
@@ -20,3 +10,16 @@ body {
 #video {
   background-color: #ffee78;
   }
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+     }
+.button2 {background-color: green;} /* Red */
