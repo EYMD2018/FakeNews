@@ -31,7 +31,8 @@
     display: inline-block;
     font-size: 24px;
     margin: 4px 2px;
-    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
      }
 .button2 {background-color: green;} /* Red */
 p {
@@ -85,4 +86,7 @@ height: 100px; /* Just an example height*/
  h1 {
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px #ffee78;
+}
+img  {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
