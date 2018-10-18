@@ -1,5 +1,6 @@
-body {
+#body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color:  #65BEDF;
 }
 
 #title {
@@ -8,10 +9,15 @@ body {
   border: 2px solid #ffee78;
   padding: 10px;
   border-radius: 25px;
-  background: #ffee78;
+  background: #ffee78;}
+#title h2 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
+
 #video {
   background-color: #ffee78;
+  box-shadow: 10px 10px 5px grey;
   }
 .button {
     background-color: red;
