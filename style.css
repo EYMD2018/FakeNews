@@ -1,6 +1,8 @@
+
 #body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-  background-color:  #lightgrey;
+  background: url(back.png) no-repeat center fixed; 
+  background-size: cover
 }
 
 #title {
